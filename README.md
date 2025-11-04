@@ -65,8 +65,8 @@
 
 ### <h1>About Me:</h1>
 * I'm currently improving my **JavaScript and Typescript**, with a focus on building scalable and efficient applications.
-* I have a basic knowledge of **C**, **Rust**, **Python**, which has helped me understand the fundamentals of programming and syntaxes.
-* Also have basic knowledge of **MongoDB**, **MySQL**, which has helped me understand the fundamentals and importance of DBMS.
+* I have a basic knowledge of **Rust**, **Python** which has helped me understand the fundamentals of programming and syntaxes.
+* Also have basic knowledge of **MongoDB**, **MySQL**, **Prisma**, which has helped me understand the fundamentals and importance of DBMS.
 * My expertise extends to **HTML ,CSS and Tailwind**, where I work on crafting responsive and visually appealing web pages.
 * I actively use **Termux**,**Github** for a variety of tasks, learning, including running **Preview projests**, **practicing programming languages** or learning **Coding standards**.
 * All of my projects are available at my [Repository Tab](https://github.com/nishant0320?tab=repositories), where you can explore my coding journey.
@@ -215,7 +215,6 @@ You can email me at [nishantgithub@gmail.com](mailto:nishantgithub@gmail.com).  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishant0320&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=00000000&include_all_commits)](https://github.com/nishant0320)
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=nishant0320&theme=midnight-purple&hide_border=false&background=00000000)](https://git.io/streak-stats)
 
 <br>
@@ -225,7 +224,7 @@ You can email me at [nishantgithub@gmail.com](mailto:nishantgithub@gmail.com).  
 <br>
 <br>
 
-![Dark Mode](https://raw.githubusercontent.com/nishant0320/nishant0320/output/github-contribution-grid-snake-dark.svg)
+<!--![Dark Mode](https://raw.githubusercontent.com/nishant0320/nishant0320/output/github-contribution-grid-snake-dark.svg)
 <br><br>
 <!--![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)-->
 
