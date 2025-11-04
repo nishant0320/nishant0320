@@ -104,11 +104,8 @@ You can email me at [nishantgithub@gmail.com](mailto:nishantgithub@gmail.com).  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-61DAFB?logo=c&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-FF7800?logo=java&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=black)
-
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=ffffff)
 
 #### **Frontend Dev :**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=black)
@@ -135,6 +132,8 @@ You can email me at [nishantgithub@gmail.com](mailto:nishantgithub@gmail.com).  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=black)
 ![Lucide](https://img.shields.io/badge/Lucide-F56565?logo=lucide&logoColor=black)
 ![Dotenvx](https://img.shields.io/badge/Dotenvx-000000?logo=dotenv&logoColor=ECD53F)
+![C](https://img.shields.io/badge/C-61DAFB?logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FF7800?logo=java&logoColor=black)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Dotenv](https://img.shields.io/badge/Dotenv-000000?logo=dotenv&logoColor=ECD53F)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
